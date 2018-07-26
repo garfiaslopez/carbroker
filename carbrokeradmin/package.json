@@ -1,0 +1,30 @@
+{
+  "name": "CarbrokerAdmin",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "babel-runtime": "^6.20.0",
+    "buffer-shims": "^1.0.0",
+    "classnames": "^2.2.5",
+    "cloudinary": "^1.9.0",
+    "core-util-is": "^1.0.2",
+    "material-ui": "^0.18.5",
+    "meteor-node-stubs": "^0.2.11",
+    "moment": "^2.18.1",
+    "react": "^15.6.1",
+    "react-addons-css-transition-group": "^15.6.0",
+    "react-addons-pure-render-mixin": "^15.6.0",
+    "react-cookie": "^2.0.8",
+    "react-dom": "^15.6.1",
+    "react-dropzone": "^3.13.3",
+    "react-redux": "^5.0.5",
+    "react-router": "^4.1.1",
+    "react-router-dom": "^4.1.1",
+    "react-router-redux": "^4.0.8",
+    "react-tap-event-plugin": "^2.0.1",
+    "redux": "^3.7.1",
+    "redux-thunk": "^2.2.0"
+  }
+}
